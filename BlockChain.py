@@ -1,6 +1,5 @@
 import hashlib
 import json
-from pstats import SortKey
 import sys
 import requests
 from urllib.parse import urlparse
